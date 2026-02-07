@@ -1,5 +1,5 @@
 # DMC3-PAC-TOOLS
-Extractor &amp; Repacker All File .pac DMC3 (PS2/Windows)
+Extractor &amp; Repacker All File .pac DMC3 (PS2/Windows/Ubisoft)
 # Features & Functions
 - Simple GUI and menu bar display.
 - Browse menu to search for .pac files from your PC/laptop storage directory.
